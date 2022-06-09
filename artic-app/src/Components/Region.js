@@ -12,7 +12,7 @@ const Region = () => {
           <h4>View Regions available</h4>
         </section>
         
-        <section className='region-container'>
+        <section className='region-container '>
             <div id="region-img1"></div> 
             <div id="region-img2"></div>
             <div id="region-img3"></div>
