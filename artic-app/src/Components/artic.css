@@ -548,6 +548,11 @@ nav li{
     .passes-container h3{
         font-size: 1.5rem;
     }
+
+    .footer-first-div2{
+        display: grid;
+        place-items: center;
+    }
     
 
     .footer-second h5{
@@ -580,6 +585,11 @@ nav li{
 
     .passes-container::before{
         height: 75vh;
+    }
+
+    .footer-first-div2{
+        display: flex;
+        place-items: center;
     }
 
 
