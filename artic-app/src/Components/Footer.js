@@ -20,7 +20,7 @@ const Footer = () => {
                 </div>
             </div>
 
-            <div className="footer-first-div2 col-lg-6 pt-4">
+            <div className="footer-first-div2 text-center col-lg-6 pt-4">
                 <div id="div1" >
                     <h4>COMPANY</h4>
                     <div className="pt-2">
