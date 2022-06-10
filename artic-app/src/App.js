@@ -1,11 +1,10 @@
-import React from 'react' 
+import React from "react";
 import BookTrip from "./Components/BookTrip";
 import Footer from "./Components/Footer";
 import Header from "./Components/Header";
 import Passes from "./Components/Passes";
-import Region from "./Components/Region"
+import Region from "./Components/Region";
 import Resort from "./Components/Resort";
-
 
 function App() {
   return (
@@ -16,7 +15,6 @@ function App() {
       <Resort />
       <Passes />
       <Footer />
-      
     </div>
   );
 }
