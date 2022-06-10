@@ -21,7 +21,7 @@ const Footer = () => {
             </div>
 
             <div className="footer-first-div2 text-center col-lg-6 pt-4">
-                <div id="div1" >
+                <div id="div1" className="justify-content-center">
                     <h4>COMPANY</h4>
                     <div className="pt-2">
                         <p>About</p>
@@ -31,7 +31,7 @@ const Footer = () => {
                     
                 </div>
 
-                <div id="div2">
+                <div id="div2" className="justify-content-center">
                     <h4>CONTACT</h4>
                     <div className="pt-2">
                         <p>FAQ</p>
@@ -41,7 +41,7 @@ const Footer = () => {
                    
                 </div>
 
-                <div id="div3">
+                <div id="div3" className="justify-content-center">
                     <h4>MORE</h4>
                     <div className="pt-2">
                         <p>Airlines</p>
